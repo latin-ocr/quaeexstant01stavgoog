@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quaeexstant01stavgoog/quaeexstant01stavgoog_0009.png"; bbox 0 0 729 1369; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 636 32 676 172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 636 32 676 172">
+     <span class='ocr_line' id='line_1_1' title="bbox 636 32 676 172; baseline 0 1197"><span class='ocrx_word' id='word_1_1' title='bbox 636 32 676 172; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 139 222 314 265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 139 222 314 265">
+     <span class='ocr_line' id='line_1_2' title="bbox 139 222 314 265; baseline 0.051 -16"><span class='ocrx_word' id='word_1_2' title='bbox 139 222 206 265; x_wconf 48' lang='lat' dir='ltr'><strong>A„</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 217 232 314 263; x_wconf 50' lang='grc' dir='ltr'><strong>4,]ιᾶ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 189 337 517 469">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 189 337 517 469">
+     <span class='ocr_line' id='line_1_3' title="bbox 189 337 503 391; baseline 0.073 -24"><span class='ocrx_word' id='word_1_4' title='bbox 189 337 194 348; x_wconf 54' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 249 359 328 376; x_wconf 49' lang='lat' dir='ltr'><strong>Harma-«1</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 340 365 412 385; x_wconf 62' lang='lat' dir='ltr'><strong>nonnae</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 423 370 503 391; x_wconf 71' lang='lat' dir='ltr'>hibmry,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 301 386 443 412; baseline 0.063 -9"><span class='ocrx_word' id='word_1_8' title='bbox 301 386 383 407; x_wconf 64' lang='lat' dir='ltr'><strong>253‘Juns</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 395 397 443 412; x_wconf 66' lang='lat'>18131.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 269 415 517 443; baseline 0.069 -16"><span class='ocrx_word' id='word_1_10' title='bbox 269 415 321 430; x_wconf 72' lang='lat' dir='ltr'><strong>From</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 334 419 364 432; x_wconf 74' lang='lat' dir='ltr'><strong>vhe</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 374 421 452 440; x_wconf 65' lang='lat' dir='ltr'><strong>Lim-any</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 460 429 480 441; x_wconf 71' lang='grc' dir='ltr'><strong>σι’</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 514 440 517 443; x_wconf 58' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 253 440 494 469; baseline 0.071 -17"><span class='ocrx_word' id='word_1_15' title='bbox 253 440 300 455; x_wconf 66' lang='lat' dir='ltr'><strong>Prof.</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 314 443 334 457; x_wconf 74' lang='grc' dir='ltr'><strong>Ε.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 351 445 377 460; x_wconf 86' lang='lat' dir='ltr'><strong>W.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 390 448 494 469; x_wconf 66' lang='lat' dir='ltr'><strong>GURNEY.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
